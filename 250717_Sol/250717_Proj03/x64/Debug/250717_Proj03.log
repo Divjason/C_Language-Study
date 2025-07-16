@@ -1,0 +1,3 @@
+﻿  250717_Proj03.c
+C:\Users\Admin\Documents\250709\250717_Sol\250717_Proj03\250717_Proj03.c(16,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  250717_Proj03.vcxproj -> C:\Users\Admin\Documents\250709\250717_Sol\x64\Debug\250717_Proj03.exe

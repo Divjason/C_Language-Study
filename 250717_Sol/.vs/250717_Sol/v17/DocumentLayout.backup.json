@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\250709\\250717_Sol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{299BD949-C9B6-4D50-80E8-E431EB1DEB4E}|250717_Proj03\\250717_Proj03.vcxproj|C:\\Users\\Admin\\Documents\\250709\\250717_Sol\\250717_Proj03\\250717_Proj03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{299BD949-C9B6-4D50-80E8-E431EB1DEB4E}|250717_Proj03\\250717_Proj03.vcxproj|solutionrelative:250717_Proj03\\250717_Proj03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8226F87A-0F5D-40B2-8966-2578B72C6F61}|250717_Proj02\\250717_Proj02.vcxproj|C:\\Users\\Admin\\Documents\\250709\\250717_Sol\\250717_Proj02\\250717_Proj02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8226F87A-0F5D-40B2-8966-2578B72C6F61}|250717_Proj02\\250717_Proj02.vcxproj|solutionrelative:250717_Proj02\\250717_Proj02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "250717_Proj03.c",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\250709\\250717_Sol\\250717_Proj03\\250717_Proj03.c",
+              "RelativeDocumentMoniker": "250717_Proj03\\250717_Proj03.c",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\250709\\250717_Sol\\250717_Proj03\\250717_Proj03.c",
+              "RelativeToolTip": "250717_Proj03\\250717_Proj03.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-14T12:26:09.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "250717_Proj02.c",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\250709\\250717_Sol\\250717_Proj02\\250717_Proj02.c",
+              "RelativeDocumentMoniker": "250717_Proj02\\250717_Proj02.c",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\250709\\250717_Sol\\250717_Proj02\\250717_Proj02.c",
+              "RelativeToolTip": "250717_Proj02\\250717_Proj02.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-14T11:37:23.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

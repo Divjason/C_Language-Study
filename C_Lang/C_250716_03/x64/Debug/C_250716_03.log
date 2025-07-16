@@ -1,0 +1,9 @@
+﻿  C_250716_03.c
+C:\Users\Admin\Documents\250709\C_Lang\C_250716_03\C_250716_03.c(10,11): warning C4142: 'uimax': benign redefinition of type
+      C:\Users\Admin\Documents\250709\C_Lang\C_250716_03\C_250716_03.c(9,12):
+      see declaration of 'uimax'
+  
+C:\Users\Admin\Documents\250709\C_Lang\C_250716_03\C_250716_03.c(10,11): error C2086: 'uintmax_t uimax': redefinition
+      C:\Users\Admin\Documents\250709\C_Lang\C_250716_03\C_250716_03.c(9,12):
+      see declaration of 'uimax'
+  
