@@ -1,0 +1,6 @@
+﻿  250717_Proj04.c
+C:\Users\Admin\Documents\Clanguage\250717_Proj01\250717_Proj04\250717_Proj04.c(6,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+      C:\Users\Admin\Documents\Clanguage\250717_Proj01\250717_Proj04\250717_Proj04.c(6,9):
+      consider using '%zu' in the format string
+  
+  250717_Proj04.vcxproj -> C:\Users\Admin\Documents\Clanguage\250717_Proj01\x64\Debug\250717_Proj04.exe
