@@ -1,0 +1,11 @@
+git init
+
+git remote add origin https://github.com/Divjason/C-Lang.git
+
+git remote -v
+
+git add .
+
+git commit -m "250716"
+
+git push origin master

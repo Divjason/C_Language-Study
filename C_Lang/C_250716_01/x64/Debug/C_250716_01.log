@@ -1,0 +1,10 @@
+﻿  C_250716_01.c
+C:\Users\Admin\Documents\250709\C_Lang\C_250716_01\C_250716_01.c(15,9): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type '__int64'
+      C:\Users\Admin\Documents\250709\C_Lang\C_250716_01\C_250716_01.c(15,9):
+      consider using '%lld' in the format string
+      C:\Users\Admin\Documents\250709\C_Lang\C_250716_01\C_250716_01.c(15,9):
+      consider using '%Id' in the format string
+      C:\Users\Admin\Documents\250709\C_Lang\C_250716_01\C_250716_01.c(15,9):
+      consider using '%I64d' in the format string
+  
+  C_250716_01.vcxproj -> C:\Users\Admin\Documents\250709\C_Lang\x64\Debug\C_250716_01.exe

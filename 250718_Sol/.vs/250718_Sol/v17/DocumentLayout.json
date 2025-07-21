@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Clanguage\\250718_Sol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD10085-8DD8-4771-9508-ADD88CF40FB0}|250718_Proj_04\\250718_Proj_04.vcxproj|C:\\Users\\Admin\\Documents\\Clanguage\\250718_Sol\\250718_Proj_04\\250718_Proj_04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CD10085-8DD8-4771-9508-ADD88CF40FB0}|250718_Proj_04\\250718_Proj_04.vcxproj|solutionrelative:250718_Proj_04\\250718_Proj_04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618AFF74-C9BB-4F59-9617-355AC15C8671}|250718_Proj_01\\250718_Proj_01.vcxproj|C:\\Users\\Admin\\Documents\\Clanguage\\250718_Sol\\250718_Proj_01\\250718_Proj_01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{618AFF74-C9BB-4F59-9617-355AC15C8671}|250718_Proj_01\\250718_Proj_01.vcxproj|solutionrelative:250718_Proj_01\\250718_Proj_01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BD6C37-077D-416A-B5B0-084EF724D113}|250718_Proj_03\\250718_Proj_03.vcxproj|C:\\Users\\Admin\\Documents\\Clanguage\\250718_Sol\\250718_Proj_03\\250718_Proj_03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4BD6C37-077D-416A-B5B0-084EF724D113}|250718_Proj_03\\250718_Proj_03.vcxproj|solutionrelative:250718_Proj_03\\250718_Proj_03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD83567-321F-4C01-B0C9-8B8462729998}|250718_Proj_02\\250718_Proj_02.vcxproj|C:\\Users\\Admin\\Documents\\Clanguage\\250718_Sol\\250718_Proj_02\\250718_Proj_02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DD83567-321F-4C01-B0C9-8B8462729998}|250718_Proj_02\\250718_Proj_02.vcxproj|solutionrelative:250718_Proj_02\\250718_Proj_02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "250718_Proj_04.c",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Clanguage\\250718_Sol\\250718_Proj_04\\250718_Proj_04.c",
+              "RelativeDocumentMoniker": "250718_Proj_04\\250718_Proj_04.c",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Clanguage\\250718_Sol\\250718_Proj_04\\250718_Proj_04.c",
+              "RelativeToolTip": "250718_Proj_04\\250718_Proj_04.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-18T12:34:42.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "250718_Proj_03.c",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Clanguage\\250718_Sol\\250718_Proj_03\\250718_Proj_03.c",
+              "RelativeDocumentMoniker": "250718_Proj_03\\250718_Proj_03.c",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Clanguage\\250718_Sol\\250718_Proj_03\\250718_Proj_03.c",
+              "RelativeToolTip": "250718_Proj_03\\250718_Proj_03.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-18T12:23:28.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "250718_Proj_02.c",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Clanguage\\250718_Sol\\250718_Proj_02\\250718_Proj_02.c",
+              "RelativeDocumentMoniker": "250718_Proj_02\\250718_Proj_02.c",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Clanguage\\250718_Sol\\250718_Proj_02\\250718_Proj_02.c",
+              "RelativeToolTip": "250718_Proj_02\\250718_Proj_02.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-18T11:23:31.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "250718_Proj_01.c",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Clanguage\\250718_Sol\\250718_Proj_01\\250718_Proj_01.c",
+              "RelativeDocumentMoniker": "250718_Proj_01\\250718_Proj_01.c",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Clanguage\\250718_Sol\\250718_Proj_01\\250718_Proj_01.c",
+              "RelativeToolTip": "250718_Proj_01\\250718_Proj_01.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-18T11:01:54.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+*git : 형상기억 및 버전 관리 툴
+
+1. 로컬컴퓨터 : git 설치
+
+2. git 사용자 정보 전역 등록 :  
+git config --global user.name "Divjason"
+git config --global user.email "sejinpark@tcocs.com"
+
+3. git repository 생성 :
+
+4. 로컬컴퓨터 & repository 연결 :
+- git init
+- git remote
+- git add .
+- git commit -m
+- git push origin master
