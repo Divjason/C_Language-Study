@@ -1,0 +1,6 @@
+﻿  Proj01.c
+C:\Users\Admin\Downloads\C_Language-Study-master\250724\Sol01\Proj01\Proj01.c(49,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Downloads\C_Language-Study-master\250724\Sol01\Proj01\Proj01.c(52,8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Downloads\C_Language-Study-master\250724\Sol01\Proj01\Proj01.c(54,6): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\Admin\Downloads\C_Language-Study-master\250724\Sol01\Proj01\Proj01.c(56,6): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  Proj01.vcxproj -> C:\Users\Admin\Downloads\C_Language-Study-master\250724\Sol01\x64\Debug\Proj01.exe
