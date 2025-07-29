@@ -1,0 +1,2 @@
+﻿  Proj03.c
+C:\Users\Admin\Downloads\C_Language-Study-master\250729\Sol\Proj03\Proj03.c(32,1): error C4789: in function 'main' buffer 'my_numbers' of size 20 bytes will be overrun; 4 bytes will be written starting at offset 20
